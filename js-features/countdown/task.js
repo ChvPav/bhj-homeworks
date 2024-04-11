@@ -1,3 +1,4 @@
+let timerValue = document.getElementById("timer");
 let timerId = null;
 countDown();
 function countDown() {
